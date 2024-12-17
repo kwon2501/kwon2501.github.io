@@ -78,6 +78,7 @@ AquaP/                          (프로젝트 루트)
 └── README.md                                               (프로젝트 설명)
 
 
+![Project Structure](images/AquaP_sourceimg.png)
 
 
 ---
