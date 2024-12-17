@@ -76,3 +76,34 @@ AquaP/                          (프로젝트 루트)
 ├── .gitignore                                              (Gitignore 설정)
 ├── pom.xml                                                 (Maven 빌드 설정)
 └── README.md                                               (프로젝트 설명)
+
+
+
+
+---
+
+## 사용 기술
+- **Java 11**
+- **Spring Boot 3.3.3**
+- **H2 Database**
+- **Apache Tomcat 9**
+- **JSP & JSTL**
+
+---
+
+## 실행 방법
+1. 프로젝트를 클론:
+   ```bash
+   git clone https://github.com/kwon2501/AquaP.git
+
+2. 프로젝트 루트로 이동:
+cd AquaP
+
+3. Maven 빌드 및 실행 :
+   mvn spring-boot:run
+4. 웹브라우저 : http://localhost:8080
+
+
+---
+
+완료 끝!!
